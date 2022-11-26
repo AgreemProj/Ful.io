@@ -8,15 +8,25 @@ A program to check if the given contact number is valid or invalid using regular
 Examples of different formats of numbers found on websites:
 
 •	2124567890
+
 •	212-456-7890
+
 •	(212)456-7890
+
 •	(212)-456-7890
+
 •	212.456.7890
+
 •	212 456 7890
+
 •	+12124567890
+
 •	+12124567890
+
 •	+1 212.456.7890
+
 •	+212-456-7890
+
 •	1-212-456-7890
 
 As we can see above these are all the same numbers written in a different format, but they all are valid numbers.
